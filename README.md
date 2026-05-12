@@ -15,7 +15,7 @@ I'm a Senior Systems Engineer focusing on cloud, compute, and systems infrastruc
   A simple but powerful Bash script that connects via SSH and backs up your pfSense XML configuration. (17+ stars)
 
 - **[docker-squid](https://github.com/jgranzow86/docker-squid)**  
-  A basic, ready-to-use Squid proxy container built with Docker.
+  A simple, ready-to-use Squid proxy container built with Docker.
 
 ### 🌱 Currently learning / exploring
 - More advanced containerization and orchestration
